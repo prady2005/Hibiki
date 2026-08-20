@@ -44,17 +44,17 @@ No subscriptions. No tracking. No forced cloud sync. Just a blazing-fast, gorgeo
 
 ---
 
-### 3. Audiophile-Grade Playback & Safety
+### 3. Audiophile-Grade Playback & Lyrics
 - **High-Res Audio Engine**: Low-latency WASAPI output on Windows and background audio isolate on Android.
 - **Supported Formats**: `FLAC`, `MP3`, `M4A`, `AAC`, `WAV`, `OGG`, `OPUS`, `WMA`.
-- **Smart Sleep Timer**: Set a timer to gently fade out music as you fall asleep.
+- **Lyrics**: Get lyrics to any song with a proper title or a tag.
+- **Smart Sleep Timer**: Set a timer to turn the music off as you fall asleep.
 
 ---
 
 ### 4. Powerful Playlist & Queue Management
-- **Interactive Batch Addition**: Add dozens of tracks to any playlist simultaneously with live debounced search filtering.
+- **Interactive Batch Addition**: Add dozens of tracks to any playlist simultaneously with live search filtering.
 - **Drag-and-Drop Reordering**: Rearrange queues and playlists effortlessly.
-- **Batch Removal Mode**: Select multiple tracks for clean, single-tap library pruning.
 - **Listening Statistics**: Track your offline listening habits and yearly stats.
 
 ---
