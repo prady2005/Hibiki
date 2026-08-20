@@ -1,4 +1,4 @@
-# 🎵 Hibiki (響き)
+# Hibiki (響き)
 > **A sleek, modern, and private local music player for Android & Windows.**  
 > *Pure sound, zero telemetry, crafted for music lovers who own their audio.*
 
@@ -16,7 +16,7 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 **Hibiki** (Japanese for *echo*, *resonance*, or *sound*) is a high-performance, offline-first music player built from the ground up for people who curate their own audio libraries. 
 
@@ -26,7 +26,7 @@ No subscriptions. No tracking. No forced cloud sync. Just a blazing-fast, gorgeo
 
 ## 🚀 Key Features
 
-### 🎨 1. Immersive Glassmorphism & Aesthetics
+### 1. Immersive Glassmorphism & Aesthetics
 - **Rotating Vinyl & Disc Visuals**: Interactive vinyl artwork animation that brings your album art to life.
 - **Dynamic Themes**: Tailor your mood with curated palettes:
   - 🌑 **Dark Mode** & **Material Dark** (OLED-optimized deep blacks)
@@ -38,20 +38,20 @@ No subscriptions. No tracking. No forced cloud sync. Just a blazing-fast, gorgeo
 
 ---
 
-### 📂 2. Folder-First & Smart Library Indexing
+### 2. Folder-First & Smart Library Indexing
 - **Natural Folder Hierarchy**: Subfolders automatically form albums, while standalone tracks in your root directory stay clean as singles.
 - **Ultra-Fast Tag Extraction**: Instant multi-threaded scanning of ID3v2, Vorbis, FLAC, and AAC tags with automatic high-res embedded artwork caching.
 
 ---
 
-### 🎧 3. Audiophile-Grade Playback & Safety
+### 3. Audiophile-Grade Playback & Safety
 - **High-Res Audio Engine**: Low-latency WASAPI output on Windows and background audio isolate on Android.
 - **Supported Formats**: `FLAC`, `MP3`, `M4A`, `AAC`, `WAV`, `OGG`, `OPUS`, `WMA`.
 - **Smart Sleep Timer**: Set a timer to gently fade out music as you fall asleep.
 
 ---
 
-### 📋 4. Powerful Playlist & Queue Management
+### 4. Powerful Playlist & Queue Management
 - **Interactive Batch Addition**: Add dozens of tracks to any playlist simultaneously with live debounced search filtering.
 - **Drag-and-Drop Reordering**: Rearrange queues and playlists effortlessly.
 - **Batch Removal Mode**: Select multiple tracks for clean, single-tap library pruning.
@@ -59,7 +59,7 @@ No subscriptions. No tracking. No forced cloud sync. Just a blazing-fast, gorgeo
 
 ---
 
-### 🔄 5. Resilient In-App Updater
+### 5. Resilient In-App Updater
 - **One-Click In-App Updates**: Automatically queries GitHub Releases for updates without needing third-party app stores.
 - **Simultaneous Cross-Platform Releases**: Android (`.apk`) and Windows (`.exe`) updates published synchronously under matching release tags.
 
@@ -105,5 +105,5 @@ Contributions, feature suggestions, and pull requests are welcome! Feel free to 
 ---
 
 <p align="center">
-  Crafted with ❤️ for music enthusiasts.
+  Crafted with ❤️ by Pradyumna for music enthusiasts.
 </p>
