@@ -1,17 +1,17 @@
 # Hibiki (響き)
-> **A sleek, modern, and private local music player for Android & Windows.**  
-> *Pure sound, zero telemetry, crafted for music lovers who own their audio.*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae0d71b2-2593-4641-a76b-ab620c1aab34" alt="Hibiki Logo" width="130" />
+  <img src="https://github.com/user-attachments/assets/ae0d71b2-2593-4641-a76b-ab620c1aab34" alt="Hibiki Logo" width="200" />
 </p>
+
+> **A sleek, modern, and private local music player for Android & Windows.**  
+> *Pure sound, zero telemetry, crafted for music lovers who own their audio.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Windows-blue?style=for-the-badge&logo=android&logoColor=white" alt="Platforms" />
   <img src="https://img.shields.io/badge/Flutter-v3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/.NET-9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9" />
   <img src="https://img.shields.io/badge/Offline-100%25-success?style=for-the-badge" alt="Offline First" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </p>
 
 ---
