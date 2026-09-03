@@ -1,7 +1,7 @@
 # Hibiki (響き)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae0d71b2-2593-4641-a76b-ab620c1aab34" alt="Hibiki Logo" width="200" />
+  <img src="https://github.com/user-attachments/assets/0951c400-10d4-4b53-9214-61e65c81cafe" alt="Hibiki Logo" width="200" />
 </p>
 
 > **A sleek, modern, and private local music player for Android & Windows.**  
